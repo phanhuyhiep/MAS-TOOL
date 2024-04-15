@@ -18,6 +18,8 @@
 - Trang github https://github.com/massgravel/Microsoft-Activation-Scripts, tìm tới: **Method 2 - Traditional** bấm vào một trong 2 dòng chữ đã gạch chân: ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/813c4c68-c357-4cf0-b600-fb86db51618d)
 - Trang chủ: https://massgrave.dev/index.html
 - MASS: https://1drv.ms/f/s!AmvuvqBBIcK6hmecSP6jINHhS9JM?e=Ohj3ZZ
+  - [MAS 2.5](https://storage.live.com/downloadfiles/V1/Zip?authKey=%21AJxI%5FqMg0eFL0kw&application=1141147648)
+  - [MAS 2.4](https://storage.live.com/downloadfiles/V1/Zip?authKey=%21AJxI%5FqMg0eFL0kw&application=1141147648)
 - Từ trang trên chúng ta có thể download source nguồn của windows và office https://massgrave.dev/genuine-installation-media.html
 - Đây là Tool hay, đảm bảo không có virus!
 - Chạy tốt trên nền Windows 8.1 trở lên!
