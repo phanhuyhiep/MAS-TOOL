@@ -2,7 +2,7 @@
   - Giới thiệu: https://massgrave.dev/index.html#Activations_Summary
   - Rất hay, các bạn ạ!
 
-## MAS TOOL chạy trực tiếp trên PowerShell ##
+## MAS TOOL chạy trực tiếp trên PowerShell [xem video](https://1drv.ms/v/s!AmvuvqBBIcK6i3OvF2c-SwlmAZ27?e=1aasX9) ##
   - Bấm nút **Windows + R** rồi gõ vào **PowerShell** rồi enter
   - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/20392a4f-4858-4dfc-89b0-dd3b3a243f90)
   - Dán vào câu lệnh: **CD C:\Windows\System32** rồi enter
