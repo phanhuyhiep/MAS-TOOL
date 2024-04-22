@@ -1,4 +1,5 @@
 # MAS TOOL
+  - ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743414-b21c5a56-bd56-4cae-912e-244a9afd470f.jpg)
   - Giới thiệu: https://massgrave.dev/index.html#Activations_Summary
   - Rất hay, các bạn ạ!
 
@@ -22,7 +23,6 @@
 - Từ trang trên chúng ta có thể download source nguồn của windows và office https://massgrave.dev/genuine-installation-media.html
 - Đây là Tool hay, đảm bảo không có virus!
 - Chạy tốt trên nền Windows 8.1 trở lên!
-- ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743414-b21c5a56-bd56-4cae-912e-244a9afd470f.jpg)
 
 ## KÍCH HOẠT OFFICE VĨNH VIỄN ##
 - **Chỉ kích hoạt được office 2013 trở đi.**
