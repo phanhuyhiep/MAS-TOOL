@@ -11,7 +11,7 @@
   - Dán tiếp câu lệnh: **irm https://massgrave.dev/get | iex** rồi đánh enter
   - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/4a6e5e4c-b9d5-4c1a-83d3-0c3e3428a15f)
   - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/159479af-26cc-4c21-b250-73ed97188dc7)
-  - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/02fb00aa-67c3-42ce-afbd-94458d018ee9)
+  - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/3cf584b1-4c96-4603-88a5-322dbdefd050)
   - OK!
   - Hãy chọn lựa theo yêu cầu của bạn!
 
