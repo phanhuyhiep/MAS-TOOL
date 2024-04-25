@@ -4,14 +4,20 @@
   - Rất hay, các bạn ạ!
 
 ## MAS TOOL chạy trực tiếp trên PowerShell [xem video](https://1drv.ms/v/s!AmvuvqBBIcK6i3OvF2c-SwlmAZ27?e=1aasX9) ##
-  - Bấm nút **Windows + R** rồi gõ vào **PowerShell** rồi enter
+- Bấm nút **Windows + R** rồi gõ vào **PowerShell** rồi enter
   - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/20392a4f-4858-4dfc-89b0-dd3b3a243f90)
   - Dán vào câu lệnh: **CD C:\Windows\System32** rồi enter
-  - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/2d1b705d-7727-429b-983b-07dfc1cac0bb)
-  - Dán tiếp câu lệnh: **irm https://massgrave.dev/get | iex** rồi đánh enter
-  - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/4a6e5e4c-b9d5-4c1a-83d3-0c3e3428a15f)
-  - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/159479af-26cc-4c21-b250-73ed97188dc7)
-  - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/3cf584b1-4c96-4603-88a5-322dbdefd050)
+- Hoặc: **Chạy Windows PowerShell** bằng quyền **Run as Administrator**
+  - Dán một trong 2 câu lệnh sau rồi bấm enter:
+    
+    ```php
+    iwr -useb https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS.ps1 | iex
+    ```
+
+    ```php
+    irm https://massgrave.dev/get | iex
+    ```
+
   - OK!
   - Hãy chọn lựa theo yêu cầu của bạn!
 
