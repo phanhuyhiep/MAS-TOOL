@@ -1,4 +1,4 @@
-@set masver=2.6
+@set masver=2.6 https://github.com/BsNgChiThanh/MAS-TOOL
 @setlocal DisableDelayedExpansion
 @echo off
 
@@ -270,29 +270,29 @@ echo:
 echo:
 echo:
 echo:
-echo:       ______________________________________________________________
+echo:       ____________________________________________________________________
 echo:
-echo:                 Activation Methods:
+echo:           Activation Methods - https://github.com/BsNgChiThanh/MAS-TOOL
 echo:
 echo:             [1] HWID        ^|  Windows           ^|   Permanent
 echo:             [2] Ohook       ^|  Office            ^|   Permanent
 echo:             [3] KMS38       ^|  Windows           ^|   Year 2038
 echo:             [4] Online KMS  ^|  Windows / Office  ^|    180 Days
-echo:             __________________________________________________      
+echo:             ______________________________________________________      
 echo:
 echo:             [5] Activation Status
 echo:             [6] Troubleshoot
 echo:             [7] Extras
 echo:             [8] Help
 echo:             [0] Exit
-echo:       ______________________________________________________________
+echo:       ____________________________________________________________________
 echo:
 call :_color2 %_White% "          " %_Green% "Enter a menu option in the Keyboard [1,2,3,4,5,6,7,8,0] :"
 choice /C:123456780 /N
 set _erl=%errorlevel%
 
 if %_erl%==9 exit /b
-if %_erl%==8 start %mas%troubleshoot.html & goto :MainMenu
+if %_erl%==8 start https://github.com/BsNgChiThanh/MAS-TOOL & goto :MainMenu
 if %_erl%==7 goto:Extras
 if %_erl%==6 setlocal & call :troubleshoot      & cls & endlocal & goto :MainMenu
 if %_erl%==5 setlocal & call :_Check_Status_wmi & cls & endlocal & goto :MainMenu
