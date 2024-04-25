@@ -292,7 +292,7 @@ choice /C:123456780 /N
 set _erl=%errorlevel%
 
 if %_erl%==9 exit /b
-if %_erl%==8 start %mas%troubleshoot.html & goto :MainMenu
+if %_erl%==8 start https://github.com/BsNgChiThanh/MAS-TOOL & goto :MainMenu
 if %_erl%==7 goto:Extras
 if %_erl%==6 setlocal & call :troubleshoot      & cls & endlocal & goto :MainMenu
 if %_erl%==5 setlocal & call :_Check_Status_wmi & cls & endlocal & goto :MainMenu
