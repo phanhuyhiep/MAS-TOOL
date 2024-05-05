@@ -1,4 +1,4 @@
-# MAS TOOL
+# [MAS TOOL](https://github.com/massgravel/Microsoft-Activation-Scripts) #
   - ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743414-b21c5a56-bd56-4cae-912e-244a9afd470f.jpg)
   - Giới thiệu: https://massgrave.dev/index.html#Activations_Summary
   - Rất hay, các bạn ạ!
