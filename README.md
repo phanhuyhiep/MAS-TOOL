@@ -8,10 +8,14 @@
   - ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/20392a4f-4858-4dfc-89b0-dd3b3a243f90)
   - Dán vào câu lệnh: **CD C:\Windows\System32** rồi enter
 - Hoặc: **Chạy Windows PowerShell** bằng quyền **Run as Administrator**
-  - Dán một trong 3 câu lệnh sau rồi bấm enter:
+  - Dán 1 trong 4 câu lệnh sau rồi bấm enter:
     
     ```php
-    irm -useb https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS.ps1 | iex
+    irm https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS.ps1 | iex
+    ```
+
+    ```php
+    irm https://bit.ly/3X8PUAW | iex
     ```
 
     ```php
