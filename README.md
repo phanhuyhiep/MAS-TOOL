@@ -33,7 +33,7 @@
 - Trang github https://github.com/massgravel/Microsoft-Activation-Scripts, tìm tới: **Method 2 - Traditional** bấm vào một trong 2 dòng chữ đã gạch chân: ![image](https://github.com/BsNgChiThanh/MAS-TOOL/assets/82578024/813c4c68-c357-4cf0-b600-fb86db51618d)
 - Trang chủ: https://massgrave.dev/index.html
 - [MASS](https://1drv.ms/f/s!AmvuvqBBIcK6hmecSP6jINHhS9JM?e=Ohj3ZZ)
-  - MAS mới nhất: [tại đây](https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/0884271c4fcdc72d95bce7c5c7bdf77ef4a9bcef/MAS/All-In-One-Version/MAS_AIO-CRC32_31F7FD1E.cmd) hoặc [tại đây](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/raw/0884271c4fcdc72d95bce7c5c7bdf77ef4a9bcef/MAS/All-In-One-Version/MAS_AIO-CRC32_31F7FD1E.cmd)
+  - MAS mới nhất: [tại đây](https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/0884271c4fcdc72d95bce7c5c7bdf77ef4a9bcef/MAS/All-In-One-Version/MAS_AIO-CRC32_31F7FD1E.cmd) hoặc [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS.cmd)
   - MAS 2.7 [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS_AIO%20V2.7.cmd)
   - MAS 2.6 [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS%20V2.6.cmd)  
   - MAS 2.5 [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS%202.5.rar)  
