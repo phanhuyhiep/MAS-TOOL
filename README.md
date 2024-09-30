@@ -1,5 +1,6 @@
 # [MAS TOOL](https://github.com/massgravel/Microsoft-Activation-Scripts) #
   - ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743414-b21c5a56-bd56-4cae-912e-244a9afd470f.jpg)
+  - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
   - Giới thiệu: https://massgrave.dev/index.html#Activations_Summary
   - Rất hay, các bạn ạ!
 
@@ -12,10 +13,6 @@
     
     ```php
     irm https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS.ps1 | iex
-    ```
-
-    ```php
-    irm https://bit.ly/3X8PUAW | iex
     ```
 
     ```php
