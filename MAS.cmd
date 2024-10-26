@@ -314,7 +314,7 @@ cls
 color 07
 title  Microsoft %blank%Activation %blank%Scripts %masver%
 if not defined terminal mode 76, 33
-
+color 1F
 echo:
 echo:
 echo:
